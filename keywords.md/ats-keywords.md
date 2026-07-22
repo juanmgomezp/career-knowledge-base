@@ -14,7 +14,7 @@ SQL Server, Stored Procedures, Performance Tuning, Query Optimization, SQL Analy
 
 ## Development
 
-REST APIs, C#, .NET, JavaScript, Python, PostgreSQL, SQLite
+REST APIs, C#, .NET, JavaScript, Python, PostgreSQL, SQLite, HTML, CSS
 
 ## Business
 
