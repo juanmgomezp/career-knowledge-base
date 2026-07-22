@@ -10,11 +10,13 @@ last_updated: 2026-07-21
 
 ## Resumen Ejecutivo
 
-Ingeniero en Sistemas Computacionales con más de 11 años de experiencia profesional y más de 5 años especializado en soporte técnico empresarial, administración de plataformas SaaS, SQL Server, automatización de procesos y mejora continua de operaciones de soporte.
+Ingeniero en Sistemas Computacionales especializado en Support Operations, Application Support y administración de plataformas SaaS.
 
-Mi carrera ha evolucionado desde la implementación de software hasta la administración de operaciones de soporte, liderando equipos técnicos, diseñando soluciones internas, participando en proyectos de validación técnica y desarrollando herramientas que reducen trabajo manual, mejoran indicadores operativos y fortalecen la experiencia del cliente.
+Desde 2020 he desarrollado una trayectoria profesional enfocada en soporte técnico empresarial, SQL Server, automatización de procesos, análisis de causa raíz y mejora continua de operaciones de soporte, evolucionando desde la implementación de software hasta la administración de operaciones de soporte, asumiendo progresivamente responsabilidades de liderazgo técnico y coordinación de equipos.
 
-Mi principal diferenciador es la capacidad de combinar soporte técnico, análisis de datos, SQL Server y automatización para resolver problemas complejos, identificar causas raíz y transformar procesos operativos en soluciones medibles y escalables.
+A lo largo de este recorrido he colaborado estrechamente con equipos de Desarrollo, Comercial y Customer Success para resolver incidencias complejas, diseñar soluciones internas, automatizar procesos operativos, coordinar migraciones SaaS, validar funcionalmente APIs REST y fortalecer la calidad de los servicios mediante el análisis técnico, la mejora continua y la toma de decisiones basada en datos.
+
+Mi principal diferenciador es la capacidad de combinar soporte técnico, análisis de datos, SQL Server, automatización y herramientas de Inteligencia Artificial como apoyo para diagnosticar aplicaciones empresariales, identificar causas raíz, optimizar procesos y desarrollar soluciones que generan un impacto medible en la operación y en la experiencia del cliente.
 
 ---
 
