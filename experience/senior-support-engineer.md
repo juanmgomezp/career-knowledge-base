@@ -147,6 +147,8 @@ Esta etapa marcó la transición entre un perfil enfocado principalmente en sopo
 - C#
 - .NET Core
 - JavaScript
+- HTML
+- CSS
 - GitHub
 - Plataforma RAD (Consoft)
 
