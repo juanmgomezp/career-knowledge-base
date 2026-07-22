@@ -8,7 +8,7 @@ A lo largo de mi carrera he evolucionado desde roles enfocados en implementació
 
 Disfruto comprender cómo funciona una operación antes de proponer soluciones. Mi principal fortaleza consiste en identificar oportunidades de mejora, analizar su causa raíz y diseñar estrategias que reduzcan el trabajo manual, mejoren la experiencia del usuario y generen información útil para la toma de decisiones.
 
-Aunque gran parte de mi experiencia proviene del área de Soporte, mi enfoque siempre ha sido construir soluciones que permitan prevenir problemas en lugar de únicamente resolverlos cuando ocurren.
+Aunque gran parte de mi experiencia proviene del área de Soporte, mi enfoque siempre ha sido construir soluciones que permitan prevenir problemas en lugar de únicamente resolverlos cuando ocurren. Con el tiempo también he ampliado mi experiencia hacia el diagnóstico de aplicaciones empresariales en entornos SaaS, la validación funcional de APIs REST y la colaboración con equipos de Desarrollo durante procesos de liberación y mejora continua de productos.
 
 ---
 
@@ -24,7 +24,7 @@ Cuando enfrento un problema suelo seguir un proceso similar:
 6. Generar indicadores que permitan medir el impacto de la solución.
 7. Mejorar continuamente el proceso a partir de resultados reales.
 
-Este enfoque me ha permitido desarrollar soluciones utilizando SQL Server, plataformas RAD, aplicaciones web, herramientas SaaS, automatizaciones e Inteligencia Artificial, dependiendo de las necesidades de cada proyecto.
+Este enfoque me ha permitido desarrollar soluciones utilizando SQL Server, plataformas RAD, aplicaciones web, herramientas SaaS, APIs REST, automatizaciones e Inteligencia Artificial, dependiendo de las necesidades de cada proyecto.
 
 ---
 
@@ -34,7 +34,7 @@ Ingeniero en Sistemas Computacionales con más de 11 años de experiencia profes
 
 Actualmente me desempeño como Support Administrator en Ekasoft, donde lidero un equipo de soporte técnico, administro la plataforma de soporte de la organización, superviso indicadores operativos, coordino iniciativas de mejora continua y participo en la administración del entorno SaaS utilizado por más de 100 clientes empresariales.
 
-Mi experiencia combina soporte técnico, análisis de datos, automatización de procesos, SQL Server, administración de plataformas SaaS, liderazgo técnico y desarrollo de herramientas internas enfocadas en incrementar la eficiencia operativa y mejorar la experiencia del cliente.
+Mi experiencia combina soporte técnico, análisis de datos, automatización de procesos, SQL Server, administración de plataformas SaaS, diagnóstico de aplicaciones empresariales, validación funcional de APIs REST, liderazgo técnico y desarrollo de herramientas internas enfocadas en incrementar la eficiencia operativa y mejorar la experiencia del cliente.
 
 ---
 
@@ -139,7 +139,7 @@ Mi experiencia combina soporte técnico, análisis de datos, automatización de 
 
 ---
 
-## Inteligencia Artificial
+# Inteligencia Artificial
 
 - ChatGPT
 - Claude
@@ -169,6 +169,8 @@ Considero la IA como una herramienta para incrementar productividad, no como un 
 
 - Analizar procesos para identificar oportunidades de mejora.
 - Resolver problemas complejos mediante análisis de causa raíz.
+- Diagnosticar aplicaciones empresariales en entornos de escritorio y SaaS.
+- Validar funcionalmente APIs REST antes de su liberación a producción.
 - Diseñar soluciones que reduzcan trabajo manual y dependencia operativa.
 - Transformar datos en información útil para la toma de decisiones.
 - Automatizar procesos utilizando las herramientas disponibles.
@@ -206,7 +208,8 @@ Tengo experiencia en:
 - Integración entre sistemas.
 - Desarrollo de herramientas internas.
 - Automatización de procesos.
-- Validación de APIs.
+- Validación de APIs REST.
+- Troubleshooting de aplicaciones empresariales.
 - Desarrollo web.
 
 ---
@@ -273,7 +276,7 @@ Limitada. Preferencia por posiciones completamente remotas.
 
 # Objetivos Profesionales
 
-Busco continuar desarrollándome en posiciones donde pueda combinar análisis, liderazgo técnico, automatización y mejora continua para generar impacto en la operación y en la experiencia de los clientes.
+Busco continuar desarrollándome en posiciones donde pueda combinar análisis, liderazgo técnico, automatización, diagnóstico de aplicaciones y mejora continua para generar impacto en la operación y en la experiencia de los clientes.
 
 Entre los roles que considero alineados con mi experiencia se encuentran:
 
@@ -295,4 +298,4 @@ Mi interés es formar parte de organizaciones que valoren la mejora continua, el
 
 # Palabras Clave
 
-Support Operations, SQL Server, Technical Support, SaaS, Customer Success, Solutions Engineer, Business Systems, Incident Management, Root Cause Analysis, Troubleshooting, Process Automation, Business Process Improvement, Operational Analytics, Dashboard Design, Data Analysis, Service Delivery, Technical Leadership, REST APIs, Zoho Desk, AI-Assisted Development, Continuous Improvement.
+Support Operations, SQL Server, Technical Support, SaaS, REST APIs, API Validation, Application Troubleshooting, Customer Success, Solutions Engineer, Business Systems, Incident Management, Root Cause Analysis, Troubleshooting, Process Automation, Business Process Improvement, Operational Analytics, Dashboard Design, Data Analysis, Service Delivery, Technical Leadership, Zoho Desk, AI-Assisted Development, Continuous Improvement.

@@ -1,9 +1,9 @@
 ---
 id: CAREER-HIGHLIGHTS
-type: summary
+type: profile
 language: es
-version: 1.0
-last_updated: 2026-07-16
+version: 1.1
+last_updated: 2026-07-21
 ---
 
 # Career Highlights
@@ -12,15 +12,15 @@ last_updated: 2026-07-16
 
 Ingeniero en Sistemas Computacionales con más de 11 años de experiencia profesional y más de 5 años especializado en soporte técnico empresarial, administración de plataformas SaaS, SQL Server, automatización de procesos y mejora continua de operaciones de soporte.
 
-Mi carrera ha evolucionado desde la implementación de software hasta la administración de operaciones de soporte, liderando equipos técnicos, diseñando soluciones internas y desarrollando herramientas que reducen trabajo manual, mejoran indicadores operativos y fortalecen la experiencia del cliente.
+Mi carrera ha evolucionado desde la implementación de software hasta la administración de operaciones de soporte, liderando equipos técnicos, diseñando soluciones internas, participando en proyectos de validación técnica y desarrollando herramientas que reducen trabajo manual, mejoran indicadores operativos y fortalecen la experiencia del cliente.
 
-Mi principal diferenciador es la capacidad de combinar soporte técnico, análisis de datos y automatización para transformar procesos operativos en soluciones medibles y escalables.
+Mi principal diferenciador es la capacidad de combinar soporte técnico, análisis de datos, SQL Server y automatización para resolver problemas complejos, identificar causas raíz y transformar procesos operativos en soluciones medibles y escalables.
 
 ---
 
 # Mi Perfil en una Frase
 
-Especialista en Support Operations que utiliza análisis de datos, SQL Server, automatización e Inteligencia Artificial para reducir trabajo manual, mejorar procesos y fortalecer la experiencia del cliente.
+Especialista en Support Operations que utiliza análisis de datos, SQL Server, automatización e Inteligencia Artificial para optimizar procesos, diagnosticar aplicaciones empresariales y fortalecer la experiencia del cliente.
 
 ---
 
@@ -31,6 +31,9 @@ Especialista en Support Operations que utiliza análisis de datos, SQL Server, a
 - SQL Server
 - Root Cause Analysis
 - Incident Management
+- Application Troubleshooting
+- SaaS Troubleshooting
+- API Validation
 - Process Improvement
 - Process Automation
 - SaaS Administration
@@ -78,6 +81,7 @@ Entre las soluciones desarrolladas se incluyen:
 - Optimización de consultas.
 - Integraciones entre sistemas.
 - Reglas de negocio implementadas directamente en la base de datos.
+- Análisis de rendimiento para apoyar investigaciones técnicas y validaciones funcionales de aplicaciones.
 
 ---
 
@@ -91,6 +95,7 @@ Durante mi carrera he participado en iniciativas que permitieron:
 - Fortalecer procesos internos mediante automatización.
 - Centralizar información crítica para reducir tiempos de respuesta.
 - Mejorar la colaboración entre Soporte, Comercial y Desarrollo.
+- Fortalecer la calidad de liberaciones mediante validaciones funcionales y técnicas previas a producción.
 
 ---
 
@@ -104,6 +109,7 @@ Experiencia administrando plataformas SaaS para clientes empresariales mediante:
 - Aprovisionamiento de usuarios.
 - Migraciones de clientes.
 - Validaciones posteriores a la implementación.
+- Diagnóstico de incidencias utilizando herramientas de análisis del navegador y evidencia técnica para apoyar investigaciones con equipos de Desarrollo.
 
 ---
 
@@ -154,6 +160,14 @@ Esta información permitió comenzar a tomar decisiones basadas en datos.
 
 ---
 
+## Validación Funcional de API REST
+
+Participé en la validación funcional de una API REST empresarial antes de su liberación a producción, verificando autenticación, consumo de endpoints, comportamiento funcional y tiempos de respuesta en distintos ambientes mediante Postman.
+
+La información obtenida permitió apoyar al equipo de Desarrollo en la identificación de oportunidades de optimización y validar posteriormente el correcto funcionamiento de la solución antes de su liberación definitiva.
+
+---
+
 ## Rediseño del Chatbot
 
 Diseñé una nueva estrategia para transformar un chatbot informativo en una herramienta de autoservicio.
@@ -198,6 +212,7 @@ Todas las migraciones se realizaron sin pérdida de información ni interrupcion
 - .NET
 - JavaScript
 - Python
+- REST APIs
 
 ## Soporte
 
@@ -240,9 +255,10 @@ Cada proyecto que desarrollo suele seguir el mismo enfoque:
 2. Analizar datos.
 3. Identificar la causa raíz.
 4. Diseñar una solución simple.
-5. Automatizar cuando aporta valor.
-6. Medir el impacto obtenido.
-7. Buscar nuevas oportunidades de mejora.
+5. Validar técnicamente la solución.
+6. Automatizar cuando aporta valor.
+7. Medir el impacto obtenido.
+8. Buscar nuevas oportunidades de mejora.
 
 ---
 
@@ -253,6 +269,8 @@ Cada proyecto que desarrollo suele seguir el mismo enfoque:
 - SQL Server.
 - Integración entre sistemas.
 - Soporte técnico complejo.
+- Diagnóstico de aplicaciones empresariales.
+- Validación funcional de APIs.
 - Dashboards operativos.
 - Plataformas SaaS.
 - Mejora de procesos.

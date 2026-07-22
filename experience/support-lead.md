@@ -2,8 +2,8 @@
 id: EXP-0004
 type: experience
 language: es
-version: 1.0
-last_updated: 2026-07-13
+version: 1.1
+last_updated: 2026-07-21
 ---
 
 # Support Lead
@@ -75,8 +75,11 @@ Paralelamente continué participando en proyectos internos relacionados con auto
 
 ## Contribución Técnica
 
-- Resolver incidentes de alta complejidad utilizando SQL Server y herramientas de diagnóstico.
+- Resolver incidentes de alta complejidad utilizando SQL Server, Browser Developer Tools y herramientas de diagnóstico.
 - Investigar problemas recurrentes para identificar su causa raíz.
+- Analizar errores de consola y solicitudes de red en la plataforma SaaS para obtener información adicional durante el diagnóstico de incidencias.
+- Identificar problemas relacionados con restricciones de red, configuraciones del entorno del cliente y comunicación con los servicios de la plataforma.
+- Recopilar evidencia técnica para apoyar investigaciones conjuntas entre Soporte, Desarrollo y las áreas de TI de los clientes.
 - Coordinar investigaciones técnicas entre Soporte y Desarrollo.
 - Validar soluciones antes de su liberación al cliente.
 - Mantener comunicación continua con clientes estratégicos durante incidentes críticos.
@@ -128,6 +131,13 @@ Mis responsabilidades incluyeron:
 ## Desarrollo RAD
 
 - RAD Platform (Consoft)
+
+## Tecnologías Web
+
+- Browser Developer Tools
+- HTTP
+- REST APIs
+- JSON
 
 ## Herramientas
 
@@ -200,8 +210,10 @@ Mis responsabilidades incluyeron:
 ## Técnicas
 
 - Root Cause Analysis
+- Advanced Troubleshooting
+- SaaS Troubleshooting
+- Browser Diagnostics
 - SQL Server
-- Troubleshooting
 - Business Analysis
 - Process Improvement
 - Technical Documentation
@@ -227,5 +239,5 @@ Mis responsabilidades incluyeron:
 # Proyectos Relacionados
 
 - PRJ-0003 - Sistema de Gestión y Auditoría de Documentación Técnica (Expediente Digital de Clientes)
-- PRJ-0004 - Plataforma Centralizada de Encuestas y Analítica Comercial
+- PRJ-0004 - Plataforma Centralizada de Encuestas y Analítica Comercial
 - PRJ-0005 - Migración y Adopción de Clientes hacia Plataforma SaaS

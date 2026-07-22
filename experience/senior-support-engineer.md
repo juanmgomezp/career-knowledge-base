@@ -112,6 +112,10 @@ Esta etapa marcó la transición entre un perfil enfocado principalmente en sopo
 
 - Resolver incidentes complejos utilizando SQL Server y herramientas de diagnóstico.
 - Investigar causas raíz de problemas recurrentes.
+- Diagnosticar incidencias en aplicaciones empresariales de escritorio y SaaS mediante el análisis del comportamiento funcional, la comunicación entre cliente y servidor y la evidencia técnica disponible.
+- Analizar solicitudes HTTP, respuestas del servidor y errores reportados por el navegador para obtener información que facilitara la investigación de incidencias.
+- Participar en la validación funcional de APIs REST antes de su liberación a producción, verificando autenticación, consumo de endpoints, comportamiento funcional y tiempos de respuesta utilizando Postman.
+- Comparar el comportamiento de aplicaciones con la ejecución directa de procedimientos almacenados para apoyar investigaciones de rendimiento.
 - Coordinar investigaciones técnicas entre Soporte y Desarrollo.
 - Validar entregas antes de su liberación al cliente.
 - Mantener comunicación con clientes estratégicos durante incidentes críticos.
@@ -146,6 +150,15 @@ Esta etapa marcó la transición entre un perfil enfocado principalmente en sopo
 - GitHub
 - Plataforma RAD (Consoft)
 
+## APIs
+
+- REST APIs
+
+## Herramientas
+
+- Postman
+- SQL Server Management Studio
+
 ---
 
 # Departamentos con los que colaboré
@@ -157,13 +170,14 @@ Esta etapa marcó la transición entre un perfil enfocado principalmente en sopo
 
 ---
 
-# Principales Desafíos
+## Principales Desafíos
 
 - Equilibrar responsabilidades técnicas con actividades de liderazgo.
 - Mantener los niveles de servicio mientras apoyaba al equipo en incidentes complejos.
 - Reducir la recurrencia de incidencias mediante mejoras permanentes.
 - Diseñar soluciones internas sin afectar la operación diaria.
 - Coordinar la comunicación entre Soporte y Desarrollo durante los escalamientos.
+- Validar técnicamente nuevas funcionalidades y APIs antes de su liberación a producción para reducir riesgos operativos.
 
 ---
 
@@ -185,15 +199,12 @@ Esta etapa marcó la transición entre un perfil enfocado principalmente en sopo
 - Mantener el SLA de Resolución por encima del 94%.
 - Incrementar el porcentaje de respuesta en encuestas de satisfacción por encima del 40%.
 
----
-
 ## Mejora Continua
 
 - Reducir aproximadamente un 10% el volumen mensual de tickets mediante soluciones internas y mejoras al producto.
 - Diseñar un flujo operativo estandarizado para el seguimiento del ciclo de vida completo de los tickets.
 - Implementar un modelo de objetivos para apoyar el desarrollo técnico del equipo mediante retroalimentación continua.
-
----
+- Participar en la validación funcional de una API REST empresarial, proporcionando evidencia técnica para apoyar la optimización de rendimiento previa a su liberación.
 
 ## Desarrollo Interno
 
@@ -226,6 +237,9 @@ Esta etapa marcó la transición entre un perfil enfocado principalmente en sopo
 - Root Cause Analysis
 - SQL Server
 - Troubleshooting
+- Application Troubleshooting
+- API Validation
+- REST APIs
 - Business Analysis
 - Process Improvement
 - Technical Documentation
@@ -272,3 +286,4 @@ Las iniciativas desarrolladas permitieron:
 - PRJ-0002 — Automatización de Operaciones de Soporte mediante Funcionalidades de Autoservicio
 - PRJ-0003 — Sistema de Gestión y Auditoría de Documentación Técnica (Expediente Digital de Clientes)
 - PRJ-0004 — Plataforma Centralizada de Encuestas y Analítica Comercial
+- PRJ-0009 — Validación Funcional de API REST para Consulta de Comprobantes con Carta Porte
