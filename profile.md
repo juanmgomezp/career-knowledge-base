@@ -30,11 +30,13 @@ Este enfoque me ha permitido desarrollar soluciones utilizando SQL Server, plata
 
 # Resumen Profesional
 
-Ingeniero en Sistemas Computacionales con más de 11 años de experiencia profesional y más de 5 años especializado en implementación de software empresarial, soporte técnico B2B, administración de operaciones de soporte, SQL Server y desarrollo de soluciones internas.
+Ingeniero en Sistemas Computacionales especializado en Support Operations, Application Support y administración de plataformas SaaS.
 
-Actualmente me desempeño como Support Administrator en Ekasoft, donde lidero un equipo de soporte técnico, administro la plataforma de soporte de la organización, superviso indicadores operativos, coordino iniciativas de mejora continua y participo en la administración del entorno SaaS utilizado por más de 100 clientes empresariales.
+Desde 2020 he desarrollado una trayectoria profesional enfocada en implementación de software empresarial, soporte técnico B2B, SQL Server, análisis de causa raíz, automatización de procesos y mejora continua de operaciones de soporte, evolucionando hasta desempeñarme como Support Administrator.
 
-Mi experiencia combina soporte técnico, análisis de datos, automatización de procesos, SQL Server, administración de plataformas SaaS, diagnóstico de aplicaciones empresariales, validación funcional de APIs REST, liderazgo técnico y desarrollo de herramientas internas enfocadas en incrementar la eficiencia operativa y mejorar la experiencia del cliente.
+Actualmente soy responsable de la administración de las operaciones de soporte en Ekasoft, donde coordino al equipo de soporte técnico, administro la plataforma de soporte de la organización, superviso indicadores operativos, impulso iniciativas de mejora continua y participo en la administración del entorno SaaS utilizado por más de 100 clientes empresariales.
+
+Mi experiencia integra soporte técnico, diagnóstico de aplicaciones empresariales, SQL Server, administración de plataformas SaaS, validación funcional de APIs REST, automatización de procesos y colaboración con equipos multidisciplinarios para identificar causas raíz, desarrollar soluciones internas y optimizar la eficiencia operativa y la experiencia del cliente.
 
 ---
 
