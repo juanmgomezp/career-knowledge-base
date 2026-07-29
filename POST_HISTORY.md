@@ -1,1 +1,68 @@
-Aun no hay publicaciones.
+## Publicación 001
+- **Date:** 2026-07-20
+- **Publication ID:** POST-001
+- **Topic:** De la percepción al dato: medir el verdadero impacto de los escalamientos a Desarrollo
+- **Language:** Español
+- **Publication Type:** Case Study
+- **Primary Content Pillar:** Root Cause Analysis
+- **Secondary Content Pillars:** Operational Analytics, SQL Server, Automation, Data-Driven Decision Making
+- **Primary Perspective:** Root Cause Analysis
+- **Alternative Perspectives Still Available:** Automation (Zoho Deluge design detail), AI-Assisted Development (cómo se usó IA para construir las herramientas Python), Dashboard Design (perspectiva de UX/visualización), Decision Making (cómo el líder del área usó estos datos), Documentation
+- **Technical Level:** Intermediate
+- **CTA Type:** Pregunta abierta a pares sobre medición de SLA
+- **Knowledge Unit:** Escalation-to-Development measurement process
+- **Experience:** Support Administrator (EXP-0005)
+- **Project:** PRJ-0006
+- **Achievement:** ACH (implícito, no numerado directamente — ver PRJ-0006 resultados)
+- **Story:** N/A
+- **Source Files:** projects/PRJ-0006.md, experience/support-administrator.md
+- **Key Lesson:** Los indicadores generan valor únicamente cuando permiten tomar decisiones accionables.
+- **Keywords:** escalamientos, SLA, Zoho Desk, Deluge, SQLite, Python, dashboard operativo
+- **Hashtags:** #SupportOperations #RootCauseAnalysis #OperationalAnalytics #EscalationManagement #ContinuousImprovement
+- **Status:** USED
+
+## Publicación 002
+- **Date:** 2026-07-20
+- **Publication ID:** POST-002
+- **Topic:** De reactivo a preventivo: cómo anticipar un problema reduce más carga operativa que resolverlo
+- **Language:** Español
+- **Publication Type:** Operational Improvement
+- **Primary Content Pillar:** Process Improvement
+- **Secondary Content Pillars:** Customer Success, SQL Server, SaaS, Customer Communication
+- **Primary Perspective:** Process Improvement / Prevención
+- **Alternative Perspectives Still Available:** Decision Making (criterios para renovar vs. no renovar), Customer Communication (perspectiva de cómo se comunica al cliente), Cross-functional Collaboration (relación con el KAM), Technical Walkthrough (detalle técnico de los stored procedures), Business Impact (perspectiva ejecutiva)
+- **Technical Level:** Intermediate
+- **CTA Type:** Pregunta abierta sobre procesos reactivos convertidos en preventivos
+- **Knowledge Unit:** Proactive license expiration detection process
+- **Experience:** Support Administrator (EXP-0005)
+- **Project:** PRJ-0008
+- **Achievement:** Reducción del 60% en tickets relacionados con licencias (metrics/project-impact.md)
+- **Story:** N/A
+- **Source Files:** projects/PRJ-0008.md, experience/support-administrator.md, metrics/project-impact.md
+- **Key Lesson:** Las estrategias preventivas generan un impacto mayor que resolver incidentes una vez que ya ocurrieron.
+- **Keywords:** gestión de licencias, SQL Server, stored procedures, KAM, proceso proactivo
+- **Hashtags:** #SupportOperations #ProcessImprovement #SQLServer #CustomerSuccess #SaaS
+- **Status:** USED
+
+## Publicación 003
+- **Date:** 2026-07-20
+- **Publication ID:** POST-003
+- **Topic:** Lo que aprendí la primera vez que lideré un equipo de soporte
+- **Language:** Español
+- **Publication Type:** Career Reflection
+- **Primary Content Pillar:** Technical Leadership
+- **Secondary Content Pillars:** Professional Growth, Mentoring
+- **Primary Perspective:** Leadership (primeros pasos, delegación)
+- **Alternative Perspectives Still Available:** Priorización operativa (detalle de cómo se balanceaba carga de trabajo), Coaching/Mentoring (cómo se desarrolló a otros ingenieros después), Decision Making bajo presión, Professional Growth (conexión con etapas posteriores: Senior Support Engineer, Support Lead)
+- **Technical Level:** Beginner
+- **CTA Type:** Pregunta reflexiva sobre lecciones de liderazgo
+- **Knowledge Unit:** First team leadership experience
+- **Experience:** N/A (etapa temprana, previa a roles formales documentados en experience/)
+- **Project:** N/A
+- **Achievement:** N/A
+- **Story:** story-001-first-team.md
+- **Source Files:** stories/story-001-first-team.md, career-philosophy.md, skills/leadership.md
+- **Key Lesson:** Liderar no significa resolver todos los problemas personalmente; el verdadero impacto ocurre cuando ayudas al equipo a resolverlos por sí mismo.
+- **Keywords:** liderazgo técnico, delegación, coordinación de equipo, SLA
+- **Hashtags:** #TechnicalLeadership #SupportOperations #Leadership #ProfessionalGrowth #Mentoring
+- **Status:** USED
