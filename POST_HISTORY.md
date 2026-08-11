@@ -1,4 +1,4 @@
-## Publicación 001
+### POST-001
 - **Date:** 2026-07-20
 - **Publication ID:** POST-001
 - **Topic:** De la percepción al dato: medir el verdadero impacto de los escalamientos a Desarrollo
@@ -21,7 +21,7 @@
 - **Hashtags:** #SupportOperations #RootCauseAnalysis #OperationalAnalytics #EscalationManagement #ContinuousImprovement
 - **Status:** USED
 
-## Publicación 002
+### POST-002
 - **Date:** 2026-07-20
 - **Publication ID:** POST-002
 - **Topic:** De reactivo a preventivo: cómo anticipar un problema reduce más carga operativa que resolverlo
@@ -44,7 +44,7 @@
 - **Hashtags:** #SupportOperations #ProcessImprovement #SQLServer #CustomerSuccess #SaaS
 - **Status:** USED
 
-## Publicación 003
+### POST-003
 - **Date:** 2026-07-20
 - **Publication ID:** POST-003
 - **Topic:** Lo que aprendí la primera vez que lideré un equipo de soporte
@@ -65,4 +65,70 @@
 - **Key Lesson:** Liderar no significa resolver todos los problemas personalmente; el verdadero impacto ocurre cuando ayudas al equipo a resolverlos por sí mismo.
 - **Keywords:** liderazgo técnico, delegación, coordinación de equipo, SLA
 - **Hashtags:** #TechnicalLeadership #SupportOperations #Leadership #ProfessionalGrowth #Mentoring
+- **Status:** USED
+
+### POST-004
+- **Date:** 2026-07-29
+- **Topic:** Cuando el problema no está en los permisos, sino en cómo se resuelven
+- **Language:** Español
+- **Publication Type:** Case Study / Technical Walkthrough
+- **Primary Content Pillar:** SQL Server
+- **Secondary Content Pillars:** Root Cause Analysis, Data Security, Business Rules
+- **Primary Perspective:** Technical / Root Cause Analysis
+- **Alternative Perspectives Still Available:** Documentation, Process Improvement (reutilización de la solución), Cross-team Collaboration (adopción por Desarrollo), Professional Growth
+- **Technical Level:** Advanced
+- **CTA Type:** Pregunta abierta a experiencia técnica
+- **Knowledge Unit:** Análisis y corrección del modelo de permisos efectivos en reportes SQL
+- **Experience:** Senior Support Engineer
+- **Project:** PRJ-0001
+- **Achievement:** —
+- **Story:** —
+- **Source Files:** projects/PRJ-0001.md, experience/senior-support-engineer.md
+- **Key Lesson:** La seguridad debe implementarse cerca de los datos para garantizar consistencia, sin importar cuántas nuevas formas de acceso se agreguen después.
+- **Keywords:** SQL Server, Data Security, Access Control, Stored Procedures, Root Cause Analysis
+- **Hashtags:** #SQLServer #DataSecurity #RootCauseAnalysis #SupportOperations #BusinessRules
+- **Status:** USED
+
+### POST-005
+- **Date:** 2026-07-29
+- **Topic:** Más tickets no siempre significa más problemas
+- **Language:** Español
+- **Publication Type:** Operational Improvement / Case Study
+- **Primary Content Pillar:** Customer Experience
+- **Secondary Content Pillars:** Automation, Knowledge Management, Process Improvement
+- **Primary Perspective:** Process Analysis / Customer Experience
+- **Alternative Perspectives Still Available:** AI-Assisted Development (implementación con Deluge), Metrics/Operational Analytics (diseño del campo de clasificación), Change Management (rediseño progresivo de 4 chatbots)
+- **Technical Level:** Intermediate
+- **CTA Type:** Pregunta abierta a experiencia compartida
+- **Knowledge Unit:** Rediseño del flujo de atención del chatbot corporativo
+- **Experience:** Support Administrator
+- **Project:** PRJ-0007
+- **Achievement:** —
+- **Story:** —
+- **Source Files:** projects/PRJ-0007.md, experience/support-administrator.md
+- **Key Lesson:** Un volumen alto de tickets puede reflejar fricción en el diseño del proceso de atención, no necesariamente más demanda real.
+- **Keywords:** Chatbot, Self-Service, Knowledge Management, Zoho Desk, Automation
+- **Hashtags:** #CustomerExperience #Automation #KnowledgeManagement #SupportOperations #ProcessImprovement
+- **Status:** USED
+
+### POST-006
+- **Date:** 2026-07-29
+- **Topic:** Lo que aprendí migrando 20 clientes empresariales hacia SaaS sin perder ni un dato
+- **Language:** Español
+- **Publication Type:** Customer Story / Best Practice
+- **Primary Content Pillar:** Customer Success
+- **Secondary Content Pillars:** SaaS, Change Management, Customer Experience
+- **Primary Perspective:** Change Management / Customer Trust
+- **Alternative Perspectives Still Available:** Technical Consulting (validación de desarrollos personalizados), Risk Mitigation, Cross-functional Collaboration (coordinación con Desarrollo y Comercial), Professional Growth
+- **Technical Level:** Intermediate
+- **CTA Type:** Pregunta abierta a estrategia práctica
+- **Knowledge Unit:** Migración y adopción de clientes hacia la plataforma SaaS
+- **Experience:** Support Lead
+- **Project:** PRJ-0005
+- **Achievement:** ACH-0002
+- **Story:** —
+- **Source Files:** projects/PRJ-0005.md, achievements/ACH-0002.md, experience/support-lead.md
+- **Key Lesson:** El periodo de convivencia entre plataformas reduce la resistencia al cambio y genera confianza sin forzar una transición abrupta.
+- **Keywords:** SaaS Migration, Change Management, Customer Adoption, Customer Success
+- **Hashtags:** #CustomerSuccess #SaaS #ChangeManagement #CustomerExperience #SupportOperations
 - **Status:** USED
