@@ -28,7 +28,7 @@ Support Lead
 
 ## Resumen del Rol
 
-Como Support Lead fui responsable de coordinar la operación diaria de uno de los equipos de soporte de la organización, garantizando el cumplimiento de los niveles de servicio, apoyando al equipo en incidentes de alta complejidad y colaborando con diferentes áreas para asegurar la continuidad del servicio ofrecido a los clientes.
+Como Support Lead fui responsable de coordinar la operación diaria de uno de los equipos de soporte de la organización, garantizando el cumplimiento de los niveles de servicio, apoyando al equipo en incidentes de alta complejidad y colaborando con diferentes áreas para asegurar la continuidad del servicio ofrecido a clientes empresariales y usuarios finales de negocio.
 
 Además de las actividades de liderazgo, continué participando activamente en la resolución de incidentes críticos, proyectos de implementación y migración, así como en el desarrollo y mantenimiento de herramientas internas utilizadas por diferentes áreas de la empresa.
 
@@ -68,7 +68,7 @@ Paralelamente continué participando en proyectos internos relacionados con auto
 - Diseñar estrategias para mejorar la eficiencia del servicio.
 - Elaborar reportes semanales para el Supervisor de Soporte.
 - Coordinar el proceso de escalamiento con el área de Desarrollo.
-- Monitorear la calidad del servicio y la satisfacción de los clientes.
+- Monitorear la calidad del servicio y la satisfacción de clientes empresariales y usuarios finales de negocio.
 - Identificar oportunidades de mejora en procesos internos.
 
 ---
@@ -91,7 +91,7 @@ Paralelamente continué participando en proyectos internos relacionados con auto
 - Coordinar servicios de implementación y renovación.
 - Traducir requerimientos de negocio en especificaciones técnicas para el área de Desarrollo.
 - Liderar migraciones de clientes hacia la plataforma SaaS.
-- Realizar sesiones de capacitación para clientes y prospectos.
+- Realizar sesiones de capacitación para clientes, usuarios finales de negocio y prospectos.
 - Guiar procesos de onboarding para nuevos clientes.
 - Colaborar con Customer Success para garantizar una transición exitosa durante las implementaciones.
 
@@ -162,7 +162,7 @@ Mis responsabilidades incluyeron:
 - Adaptar al equipo a una nueva estructura organizacional.
 - Mantener los niveles de servicio durante la reorganización del área.
 - Balancear actividades de liderazgo con responsabilidades técnicas.
-- Coordinar clientes críticos con múltiples productos y servicios.
+- Coordinar la atención de clientes estratégicos y usuarios finales durante incidentes de alta criticidad.
 - Mantener proyectos internos de desarrollo sin afectar la operación diaria.
 - Gestionar migraciones SaaS minimizando el impacto para los clientes.
 
@@ -184,7 +184,7 @@ Mis responsabilidades incluyeron:
 - Mantener el SLA de Resolución por encima del 90% durante el periodo.
 - Incrementar el índice de respuesta a encuestas de satisfacción por encima del 40%.
 - Mantener un índice de satisfacción superior al 95% en tickets cerrados.
-- Liderar la migración de más de 20 clientes empresariales hacia la plataforma SaaS alcanzando un 99% de disponibilidad y sin pérdida de información.
+- Liderar la migración de más de 20 clientes empresariales hacia la plataforma SaaS, coordinando la adopción de la plataforma por parte de usuarios finales de negocio y alcanzando un 99% de disponibilidad sin pérdida de información.
 - Optimizar aproximadamente el 90% de los procesos de escritura utilizados por el sistema Expediente Digital de Clientes.
 
 ---

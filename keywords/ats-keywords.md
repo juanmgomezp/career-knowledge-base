@@ -2,7 +2,7 @@
 
 ## Technical Support
 
-Technical Support, Enterprise Support, SaaS Support, B2B Support, Customer Support
+Technical Support, Enterprise Support, SaaS Support, B2B Support, Customer Support, End-User Support, Business End-User Support, Technical Customer Support
 
 ## Operations
 
@@ -18,7 +18,7 @@ REST APIs, C#, .NET, JavaScript, Python, PostgreSQL, SQLite, HTML, CSS
 
 ## Business
 
-Customer Success, Process Improvement, Process Automation, Operational Analytics, Technical Documentation
+Customer Success, Customer Experience, Process Improvement, Process Automation, Operational Analytics, Technical Documentation
 
 ## AI
 

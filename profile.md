@@ -32,7 +32,7 @@ Este enfoque me ha permitido desarrollar soluciones utilizando SQL Server, plata
 
 Ingeniero en Sistemas Computacionales especializado en Support Operations, Application Support y administración de plataformas SaaS.
 
-Desde 2020 he desarrollado una trayectoria profesional enfocada en implementación de software empresarial, soporte técnico B2B, SQL Server, análisis de causa raíz, automatización de procesos y mejora continua de operaciones de soporte, evolucionando hasta desempeñarme como Support Administrator.
+Desde 2020 he desarrollado una trayectoria profesional enfocada en implementación de software empresarial, soporte técnico empresarial, atención a usuarios finales de negocio, SQL Server, análisis de causa raíz, automatización de procesos y mejora continua de operaciones de soporte, evolucionando desde la implementación de software hasta la administración de operaciones de soporte y la coordinación de equipos técnicos.
 
 Actualmente soy responsable de la administración de las operaciones de soporte en Ekasoft, donde coordino al equipo de soporte técnico, administro la plataforma de soporte de la organización, superviso indicadores operativos, impulso iniciativas de mejora continua y participo en la administración del entorno SaaS utilizado por más de 100 clientes empresariales.
 
@@ -85,6 +85,7 @@ Mi experiencia integra soporte técnico, diagnóstico de aplicaciones empresaria
 - Technical Account Support
 - Customer Onboarding
 - Technical Training
+- Business End-User Support
 
 ---
 
@@ -190,7 +191,7 @@ Tengo experiencia en:
 
 ## Operaciones
 
-- Soporte técnico B2B.
+- Soporte técnico empresarial y atención a usuarios finales de negocio.
 - Administración de plataformas de soporte.
 - Administración de entornos SaaS.
 - Gestión de licencias.
@@ -300,4 +301,4 @@ Mi interés es formar parte de organizaciones que valoren la mejora continua, el
 
 # Palabras Clave
 
-Support Operations, SQL Server, Technical Support, SaaS, REST APIs, API Validation, Application Troubleshooting, Customer Success, Solutions Engineer, Business Systems, Incident Management, Root Cause Analysis, Troubleshooting, Process Automation, Business Process Improvement, Operational Analytics, Dashboard Design, Data Analysis, Service Delivery, Technical Leadership, Zoho Desk, AI-Assisted Development, Continuous Improvement.
+Support Operations, Application Support, SQL Server, Technical Support, SaaS, Business End-User Support, REST APIs, API Validation, Application Troubleshooting, Customer Success, Solutions Engineer, Business Systems, Incident Management, Root Cause Analysis, Troubleshooting, Process Automation, Business Process Improvement, Operational Analytics, Dashboard Design, Data Analysis, Service Delivery, Technical Leadership, Zoho Desk, AI-Assisted Development, Continuous Improvement.

@@ -28,7 +28,9 @@ Implementation Engineer
 
 # Resumen del Rol
 
-Como Implementation Engineer fui responsable de ejecutar implementaciones, renovaciones de licencias y actividades técnicas relacionadas con la adopción de soluciones empresariales de Facturación Electrónica y Analítica Fiscal.
+Como Implementation Engineer fui responsable de ejecutar implementaciones, renovaciones de licencias y actividades técnicas relacionadas con la adopción de soluciones empresariales de Facturación Electrónica y Analítica Fiscal para clientes empresariales y usuarios finales de negocio.
+
+Además, tuve mis primeras interacciones directas con usuarios finales provenientes de distintas áreas de negocio —incluyendo personal administrativo, contadores y responsables operativos— fortaleciendo mis habilidades de comunicación y aprendiendo a adaptar conceptos técnicos a un lenguaje comprensible para perfiles no técnicos.
 
 Durante esta etapa desarrollé una sólida base en documentación técnica, implementación de software y comunicación con clientes, comprendiendo que la calidad de la documentación y el seguimiento de los proyectos son factores clave para garantizar la continuidad del servicio y reducir errores operativos.
 
@@ -89,7 +91,7 @@ Al identificar inconsistencias en el formato utilizado para documentar esta info
 
 - Acompañar técnicamente al cliente durante todo el proceso de implementación.
 - Participar en reuniones de inicio y seguimiento de proyectos.
-- Capacitar usuarios finales sobre el funcionamiento de los productos.
+- - Capacitar usuarios finales de negocio sobre el funcionamiento de los productos.
 - Coordinar actividades técnicas junto con Project Managers.
 - Mantener comunicación continua con los clientes durante todo el proyecto.
 
@@ -138,7 +140,7 @@ Al identificar inconsistencias en el formato utilizado para documentar esta info
 - Adaptarme a un entorno completamente remoto.
 - Comprender el funcionamiento de múltiples productos empresariales en un periodo corto de tiempo.
 - Aprender los procesos internos de implementación utilizados por la organización.
-- Mantener una comunicación clara con clientes de perfiles no técnicos.
+- Mantener una comunicación clara con clientes empresariales y usuarios finales de diferentes perfiles.
 - Documentar correctamente cada actividad realizada y el tiempo invertido.
 - Coordinar actividades con diferentes áreas durante la ejecución de los proyectos.
 
@@ -210,7 +212,7 @@ Durante esta etapa desarrollé las bases técnicas y metodológicas que posterio
 Las habilidades adquiridas contribuyeron a:
 
 - Comprender el ciclo completo de implementación de soluciones empresariales.
-- Fortalecer mis habilidades de comunicación con clientes de diferentes perfiles.
+- - Fortalecer mis habilidades de comunicación con clientes empresariales y usuarios finales de negocio.
 - Estandarizar la documentación técnica utilizada por el área de Implementación.
 - Comprender el funcionamiento interno de los productos distribuidos por la empresa.
 - Desarrollar hábitos de organización y documentación que posteriormente resultarían fundamentales durante mi carrera en Soporte.

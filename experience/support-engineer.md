@@ -28,7 +28,7 @@ Support Engineer
 
 # Resumen del Rol
 
-Como Support Engineer fui responsable de atender incidentes técnicos para soluciones de Facturación Electrónica y Analítica Fiscal, brindando seguimiento al cliente desde la asignación hasta la resolución del caso.
+Como Support Engineer fui responsable de atender incidentes técnicos relacionados con soluciones de Facturación Electrónica y Analítica Fiscal, brindando soporte a clientes empresariales y usuarios finales de negocio, y dando seguimiento a cada caso desde su asignación hasta su resolución.
 
 Durante esta etapa profundicé mis habilidades técnicas en diagnóstico y resolución de incidentes utilizando SQL Server, al mismo tiempo que desarrollé una comprensión más profunda de la arquitectura y funcionamiento interno de los productos.
 
@@ -54,12 +54,12 @@ Gran parte de este aprendizaje se obtuvo mediante la atención diaria de casos, 
 
 ## Contribución Técnica
 
-- Diagnosticar incidentes reportados por clientes.
+- Diagnosticar incidentes reportados por clientes empresariales y usuarios finales de negocio.
 - Resolver incidencias utilizando SQL Server y SQL Profiler.
 - Analizar consultas SQL para identificar causas raíz.
 - Escalar incidentes al área de Desarrollo cuando era necesario.
 - Dar seguimiento continuo a los casos hasta su resolución.
-- Mantener comunicación constante con los clientes durante todo el ciclo del incidente.
+- Mantener comunicación constante con clientes y usuarios finales durante todo el ciclo del incidente.
 - Documentar casos complejos para facilitar futuras investigaciones.
 - Elaborar guías para configuraciones y procesos operativos frecuentes.
 - Atender llamadas de soporte, generar tickets y asignarlos considerando la carga operativa.
@@ -96,7 +96,7 @@ Gran parte de este aprendizaje se obtuvo mediante la atención diaria de casos, 
 - Adaptarme a la transición desde un rol preventivo hacia un entorno reactivo de soporte técnico.
 - Priorizar múltiples incidentes simultáneamente manteniendo el cumplimiento de los SLA.
 - Aprender SQL Server como herramienta principal para el diagnóstico y resolución de problemas.
-- Comunicar oportunamente los avances de cada incidente a los clientes.
+- Comunicar oportunamente los avances de cada incidente a clientes empresariales y usuarios finales.
 - Solicitar apoyo cuando era necesario para garantizar la resolución de los casos.
 - Tomar decisiones técnicas bajo presión manteniendo una atención de calidad.
 
@@ -145,7 +145,7 @@ Gran parte de este aprendizaje se obtuvo mediante la atención diaria de casos, 
 
 # Lecciones Aprendidas
 
-- El soporte técnico representa la experiencia más cercana del cliente con la empresa; una atención de calidad puede ser determinante para fortalecer la confianza y la relación comercial.
+- El soporte técnico representa uno de los principales puntos de contacto entre la empresa y sus clientes; una atención de calidad fortalece la confianza tanto de usuarios finales como de organizaciones que dependen de la plataforma para sus operaciones diarias.
 
 - El seguimiento constante suele ser tan importante como la solución técnica. Mantener informado al cliente durante todo el proceso genera confianza incluso cuando la resolución depende de otros equipos.
 
@@ -164,7 +164,7 @@ Durante esta etapa desarrollé las bases técnicas y metodológicas que posterio
 Las habilidades adquiridas contribuyeron a:
 
 - Fortalecer mis capacidades de diagnóstico utilizando SQL Server.
-- Mejorar la comunicación técnica con clientes.
+- Mejorar la comunicación técnica con clientes empresariales y usuarios finales de negocio.
 - Comprender el funcionamiento interno de los productos.
 - Desarrollar metodologías de resolución de incidentes.
 - Prepararme para asumir responsabilidades de liderazgo técnico y mejora continua.

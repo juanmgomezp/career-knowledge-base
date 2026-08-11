@@ -2,7 +2,8 @@
 
 ## Clientes
 
-- +100 clientes B2B.
+- +100 clientes empresariales.
+- Atención directa a usuarios finales de negocio (contadores, personal administrativo, responsables de nómina y propietarios de pequeñas empresas).
 
 ## Equipo
 

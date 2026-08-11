@@ -30,7 +30,7 @@ Senior Support Engineer
 
 Como Senior Support Engineer fui responsable de coordinar un equipo de soporte técnico especializado en soluciones de Facturación Electrónica y Analítica Fiscal, actuando como principal punto de apoyo para la resolución de incidentes complejos y la toma de decisiones técnicas.
 
-Además de continuar atendiendo clientes estratégicos, participé activamente en la mejora continua de los productos mediante el análisis de incidencias recurrentes, la colaboración con el área de Desarrollo y el diseño de soluciones internas para reducir la carga operativa del equipo.
+Además de continuar atendiendo clientes estratégicos y usuarios finales de negocio, participé activamente en la mejora continua de los productos mediante el análisis de incidencias recurrentes, la colaboración con el área de Desarrollo y el diseño de soluciones internas para reducir la carga operativa del equipo.
 
 Durante este periodo mi rol evolucionó desde un enfoque principalmente operativo hacia responsabilidades de liderazgo técnico, Support Operations y desarrollo de herramientas internas para distintas áreas de la organización.
 
@@ -50,7 +50,7 @@ Después de seis meses como Support Engineer, fui seleccionado para coordinar el
 
 Mi responsabilidad principal consistía en servir como primer punto de apoyo para el equipo durante investigaciones complejas, validar diagnósticos antes de escalar casos al área de Desarrollo y coordinar la atención de clientes con mayor criticidad.
 
-También era responsable de supervisar el cumplimiento de los indicadores operativos, analizar tendencias de soporte y detectar oportunidades para mejorar tanto los procesos internos como los propios productos.
+También era responsable de supervisar el cumplimiento de los indicadores operativos, analizar tendencias de soporte y detectar oportunidades para mejorar tanto los procesos internos como la experiencia de clientes empresariales y usuarios finales de negocio.
 
 ---
 
@@ -102,7 +102,7 @@ Esta etapa marcó la transición entre un perfil enfocado principalmente en sopo
 - Auditar tickets para validar clasificación, documentación, seguimiento y calidad de atención.
 - Detectar tendencias que afectaran el cumplimiento de los SLA.
 - Coordinar el proceso de escalamiento con el área de Desarrollo.
-- Monitorear la satisfacción de los clientes.
+- Monitorear la satisfacción de clientes empresariales y usuarios finales de negocio.
 - Identificar oportunidades de mejora en productos y procesos.
 - Diseñar estrategias para reducir incidencias recurrentes.
 
@@ -118,7 +118,7 @@ Esta etapa marcó la transición entre un perfil enfocado principalmente en sopo
 - Comparar el comportamiento de aplicaciones con la ejecución directa de procedimientos almacenados para apoyar investigaciones de rendimiento.
 - Coordinar investigaciones técnicas entre Soporte y Desarrollo.
 - Validar entregas antes de su liberación al cliente.
-- Mantener comunicación con clientes estratégicos durante incidentes críticos.
+- Mantener comunicación con clientes estratégicos y usuarios finales de negocio durante incidentes críticos.
 - Diseñar soluciones internas utilizando SQL Server y la plataforma RAD para eliminar incidencias repetitivas.
 
 ---
@@ -255,7 +255,7 @@ Esta etapa marcó la transición entre un perfil enfocado principalmente en sopo
 
 # Lecciones Aprendidas
 
-- Priorizar no consiste en dejar tareas para después, sino en enfocar los esfuerzos donde generan mayor impacto para el cliente y el negocio.
+- Priorizar no consiste en dejar tareas para después, sino en enfocar los esfuerzos donde generan mayor impacto para el cliente, el usuario final y el negocio.
 
 - Delegar no significa trabajar menos, sino distribuir estratégicamente las responsabilidades para fortalecer al equipo y garantizar la continuidad del servicio.
 
@@ -278,7 +278,7 @@ Las iniciativas desarrolladas permitieron:
 - Mejorar la colaboración entre Soporte y Desarrollo.
 - Fortalecer los procesos de implementación.
 - Automatizar procesos internos.
-- Mejorar la experiencia de los clientes mediante herramientas y procesos más eficientes.
+- Mejorar la experiencia de clientes empresariales y usuarios finales mediante herramientas y procesos más eficientes.
 
 ---
 

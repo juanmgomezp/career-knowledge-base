@@ -22,7 +22,8 @@ Mi principal objetivo consiste en reducir la cantidad de problemas que llegan al
 - Dashboards operativos
 - Automatización
 - Gestión de indicadores
-- Soporte B2B
+- Soporte empresarial (B2B)
+- Atención a usuarios finales de negocio
 - SaaS
 - Knowledge Base
 - Zoho Desk
@@ -39,7 +40,7 @@ Antes de proponer una solución intento responder preguntas como:
 - ¿Puede automatizarse?
 - ¿Estamos resolviendo síntomas o causas?
 
-Esta forma de trabajo me ha permitido desarrollar soluciones que reducen carga operativa y mejoran la experiencia del cliente.
+Esta forma de trabajo me ha permitido desarrollar soluciones que reducen carga operativa, mejoran la experiencia tanto de clientes empresariales como de usuarios finales de negocio y fortalecen continuamente la operación de soporte.
 
 ---
 

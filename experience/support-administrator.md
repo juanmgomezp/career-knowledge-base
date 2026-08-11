@@ -30,7 +30,7 @@ Support Administrator
 
 Como Support Administrator soy responsable de coordinar un equipo de soporte técnico y administrar procesos operativos que impactan a toda el área de soporte.
 
-Además de las responsabilidades de liderazgo, administro la plataforma de soporte utilizada por la organización, superviso indicadores operativos, diseño automatizaciones para mejorar procesos, elaboro reportes ejecutivos para Dirección y gestiono el entorno SaaS utilizado por los clientes.
+Además de las responsabilidades de liderazgo, administro la plataforma de soporte utilizada por la organización, superviso indicadores operativos, diseño automatizaciones para mejorar procesos, elaboro reportes ejecutivos para Dirección y gestiono el entorno SaaS utilizado por clientes empresariales y usuarios finales de negocio.
 
 Mi rol combina liderazgo técnico, Support Operations, administración SaaS, automatización y análisis de datos para mejorar continuamente la operación del servicio.
 
@@ -40,7 +40,7 @@ Mi rol combina liderazgo técnico, Support Operations, administración SaaS, aut
 
 Tras una reestructuración organizacional, el cargo de Supervisor de Soporte fue eliminado y varias de sus responsabilidades fueron redistribuidas entre diferentes áreas.
 
-Como resultado, además de continuar liderando un equipo responsable del soporte técnico para más de 100 clientes empresariales, asumí la administración de la plataforma de soporte utilizada por toda la organización y la gestión operativa del entorno SaaS.
+Como resultado, además de continuar liderando un equipo responsable del soporte técnico para más de 100 clientes empresariales, asumí la administración de la plataforma de soporte utilizada por toda la organización y la gestión operativa del entorno SaaS utilizado por clientes empresariales y usuarios finales de negocio.
 
 Mi rol evolucionó desde la coordinación de un único equipo hacia responsabilidades transversales, incluyendo el análisis de indicadores de todos los equipos de soporte, la identificación de riesgos operativos, el diseño de automatizaciones y la administración de licencias, proyectos, productos y usuarios dentro del entorno SaaS.
 
@@ -86,6 +86,7 @@ Mi rol evolucionó desde la coordinación de un único equipo hacia responsabili
 - Coordinar extensiones temporales de licencias.
 - Validar configuraciones antes de liberar nuevos ambientes.
 - Colaborar con el área Comercial durante procesos de renovación.
+- Brindar soporte administrativo a clientes empresariales y usuarios finales de negocio relacionados con el acceso y configuración de la plataforma.
 
 ---
 
@@ -147,7 +148,7 @@ Mi rol evolucionó desde la coordinación de un único equipo hacia responsabili
 - Mantener la operación del equipo mientras administraba procesos transversales.
 - Diseñar métricas que permitieran identificar el origen real de los incumplimientos de SLA.
 - Reducir trabajo operativo mediante automatizaciones.
-- Mejorar la experiencia del cliente sin incrementar la carga del equipo.
+- Mejorar la experiencia de clientes empresariales y usuarios finales de negocio sin incrementar la carga del equipo.
 - Administrar procesos críticos sin afectar la continuidad del servicio.
 
 ---
@@ -164,7 +165,7 @@ Mi rol evolucionó desde la coordinación de un único equipo hacia responsabili
 
 # Logros
 
-- Reducir en un 60% las solicitudes de soporte relacionadas con licencias vencidas mediante un proceso proactivo de revisión semanal junto con el Key Account Manager y la coordinación de extensiones temporales de licencias.
+- Reducir en un 60% las solicitudes de soporte relacionadas con licencias vencidas mediante un proceso proactivo de revisión semanal junto con el Key Account Manager y la coordinación de extensiones temporales de licencias para clientes empresariales y usuarios finales de negocio.
 
 - Diseñar un nuevo modelo de métricas que permite identificar qué tickets incumplen el SLA mientras permanecen escalados al área de Desarrollo, proporcionando visibilidad sobre una etapa del proceso que anteriormente no podía medirse.
 
@@ -224,7 +225,7 @@ Mi rol evolucionó desde la coordinación de un único equipo hacia responsabili
 
 - La mejor forma de reducir la carga operativa no siempre consiste en aumentar la capacidad del equipo, sino en eliminar trabajo innecesario mediante automatización y autoservicio.
 
-- La colaboración entre Soporte, Desarrollo, Customer Success y Comercial es fundamental para ofrecer una experiencia consistente al cliente.
+- La colaboración entre Soporte, Desarrollo, Customer Success, Comercial y los usuarios finales de negocio es fundamental para ofrecer una experiencia consistente al cliente.
 
 ---
 
