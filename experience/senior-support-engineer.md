@@ -30,7 +30,7 @@ Senior Support Engineer
 
 Como Senior Support Engineer fui responsable de coordinar un equipo de soporte técnico especializado en soluciones de Facturación Electrónica y Analítica Fiscal, actuando como principal punto de apoyo para la resolución de incidentes complejos y la toma de decisiones técnicas.
 
-Además de continuar atendiendo clientes estratégicos y usuarios finales de negocio, participé activamente en la mejora continua de los productos mediante el análisis de incidencias recurrentes, la colaboración con el área de Desarrollo y el diseño de soluciones internas para reducir la carga operativa del equipo.
+Además de continuar atendiendo clientes estratégicos, clientes directos y usuarios finales de negocio, participé activamente en la mejora continua de los productos mediante el análisis de incidencias recurrentes, la colaboración con el área de Desarrollo y el diseño de soluciones internas para reducir la carga operativa del equipo.
 
 Durante este periodo mi rol evolucionó desde un enfoque principalmente operativo hacia responsabilidades de liderazgo técnico, Support Operations y desarrollo de herramientas internas para distintas áreas de la organización.
 
@@ -118,7 +118,7 @@ Esta etapa marcó la transición entre un perfil enfocado principalmente en sopo
 - Comparar el comportamiento de aplicaciones con la ejecución directa de procedimientos almacenados para apoyar investigaciones de rendimiento.
 - Coordinar investigaciones técnicas entre Soporte y Desarrollo.
 - Validar entregas antes de su liberación al cliente.
-- Mantener comunicación con clientes estratégicos y usuarios finales de negocio durante incidentes críticos.
+- Mantener comunicación con clientes estratégicos, clientes directos y usuarios finales de negocio durante incidentes críticos.
 - Diseñar soluciones internas utilizando SQL Server y la plataforma RAD para eliminar incidencias repetitivas.
 
 ---
@@ -278,7 +278,7 @@ Las iniciativas desarrolladas permitieron:
 - Mejorar la colaboración entre Soporte y Desarrollo.
 - Fortalecer los procesos de implementación.
 - Automatizar procesos internos.
-- Mejorar la experiencia de clientes empresariales y usuarios finales mediante herramientas y procesos más eficientes.
+- Mejorar la experiencia de clientes empresariales, clientes directos y usuarios finales mediante herramientas y procesos más eficientes.
 
 ---
 

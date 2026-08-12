@@ -24,7 +24,7 @@ Aunque mi trayectoria ha transcurrido principalmente dentro de la misma organiza
 
 Mi carrera en Ekasoft comenzó como Ingeniero de Implementación.
 
-Durante esta etapa desarrollé una comprensión profunda de los productos, aprendí los procesos internos de implementación y adquirí experiencia trabajando directamente con clientes empresariales.
+Durante esta etapa desarrollé una comprensión profunda de los productos, aprendí los procesos internos de implementación y adquirí experiencia trabajando directamente con clientes empresariales, clientes directos y usuarios finales que utilizaban el software para sus operaciones profesionales.
 
 Participé en implementaciones, renovaciones de licencias, capacitaciones y documentación técnica, comprendiendo cómo los clientes utilizaban las soluciones dentro de su operación diaria.
 
@@ -56,9 +56,12 @@ Mientras que en Implementación el trabajo era principalmente preventivo y plani
 
 Durante este periodo profundicé mis conocimientos en SQL Server, análisis de bases de datos, diagnóstico de problemas y gestión de incidentes.
 
+Una parte importante del trabajo consistía en brindar soporte directo a contadores, personal administrativo, responsables de nómina y propietarios de pequeñas empresas que utilizaban los sistemas de facturación de la compañía para sus actividades profesionales diarias.
+
 También aprendí que el seguimiento constante genera tanta confianza como la solución técnica.
 
 Con el paso de los meses comencé a resolver casos cada vez más complejos y apoyar informalmente a otros compañeros cuando enfrentaban incidentes difíciles.
+
 
 ### Lo que aprendí
 
@@ -104,7 +107,7 @@ La experiencia liderando técnicamente al equipo permitió que posteriormente as
 
 Como Support Lead mis responsabilidades dejaron de centrarse únicamente en resolver problemas técnicos.
 
-Ahora era responsable de coordinar personas, distribuir cargas de trabajo, mantener los SLA, apoyar a clientes estratégicos y desarrollar al equipo.
+Ahora era responsable de coordinar personas, distribuir cargas de trabajo, mantener los SLA, apoyar tanto a clientes estratégicos como a clientes directos y usuarios finales de negocio, y desarrollar al equipo.
 
 Aprendí que liderar no consiste en resolver todos los problemas personalmente, sino en crear las condiciones necesarias para que el equipo pueda resolverlos de forma autónoma.
 
@@ -134,7 +137,7 @@ El enfoque de mi trabajo dejó de ser únicamente operativo para convertirse en 
 
 Gran parte de mi tiempo está dedicado a identificar oportunidades de mejora, diseñar procesos, automatizar actividades repetitivas y generar información que facilite la toma de decisiones.
 
-Actualmente mi objetivo principal consiste en reducir trabajo operativo mediante automatización, mejorar la experiencia del cliente y proporcionar mayor visibilidad sobre el desempeño del área.
+Actualmente mi objetivo principal consiste en reducir trabajo operativo mediante automatización, mejorar la experiencia tanto de clientes empresariales como de clientes directos y usuarios finales, y proporcionar mayor visibilidad sobre el desempeño del área.
 
 ### Lo que continúo desarrollando
 

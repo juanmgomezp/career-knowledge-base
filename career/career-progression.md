@@ -59,7 +59,7 @@ Aquí comprendí que resolver problemas rápidamente era importante, pero evitar
 
 Mi incorporación a Ekasoft representó el inicio de mi experiencia en software empresarial.
 
-Además de instalar y configurar soluciones, aprendí a comprender las necesidades operativas de clientes corporativos y adaptar la tecnología a sus procesos.
+Además de instalar y configurar soluciones, aprendí a comprender las necesidades operativas de clientes empresariales y clientes directos, incluyendo propietarios de pequeñas empresas y usuarios que utilizaban el software para su actividad profesional, adaptando la tecnología a sus procesos.
 
 ---
 
@@ -119,6 +119,7 @@ Mis responsabilidades incluyen:
 - Identificación de riesgos.
 - Mejora continua de procesos.
 - Planeación estratégica del servicio.
+- Gestión de soporte para clientes empresariales, clientes directos y usuarios finales de negocio.
 
 El enfoque principal dejó de ser únicamente la resolución de incidencias para convertirse en la optimización integral de la operación.
 

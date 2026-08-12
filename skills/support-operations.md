@@ -23,6 +23,7 @@ Mi principal objetivo consiste en reducir la cantidad de problemas que llegan al
 - Automatización
 - Gestión de indicadores
 - Soporte empresarial (B2B)
+- Soporte a clientes directos
 - Atención a usuarios finales de negocio
 - SaaS
 - Knowledge Base
@@ -40,7 +41,7 @@ Antes de proponer una solución intento responder preguntas como:
 - ¿Puede automatizarse?
 - ¿Estamos resolviendo síntomas o causas?
 
-Esta forma de trabajo me ha permitido desarrollar soluciones que reducen carga operativa, mejoran la experiencia tanto de clientes empresariales como de usuarios finales de negocio y fortalecen continuamente la operación de soporte.
+Esta forma de trabajo me ha permitido desarrollar soluciones que reducen carga operativa, mejoran la experiencia de clientes empresariales, clientes directos y usuarios finales de negocio, y fortalecen continuamente la operación de soporte.
 
 ---
 

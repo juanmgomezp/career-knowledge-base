@@ -3,7 +3,7 @@
 ## Clientes
 
 - +100 clientes empresariales.
-- Atención directa a usuarios finales de negocio (contadores, personal administrativo, responsables de nómina y propietarios de pequeñas empresas).
+- Atención directa a clientes individuales y usuarios finales de negocio, incluyendo contadores, personal administrativo, responsables de nómina y propietarios de pequeñas empresas.
 
 ## Equipo
 

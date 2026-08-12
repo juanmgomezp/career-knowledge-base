@@ -28,7 +28,7 @@ Support Lead
 
 ## Resumen del Rol
 
-Como Support Lead fui responsable de coordinar la operación diaria de uno de los equipos de soporte de la organización, garantizando el cumplimiento de los niveles de servicio, apoyando al equipo en incidentes de alta complejidad y colaborando con diferentes áreas para asegurar la continuidad del servicio ofrecido a clientes empresariales y usuarios finales de negocio.
+Como Support Lead fui responsable de coordinar la operación diaria de uno de los equipos de soporte de la organización, garantizando el cumplimiento de los niveles de servicio, apoyando al equipo en incidentes de alta complejidad y colaborando con diferentes áreas para asegurar la continuidad del servicio ofrecido a clientes empresariales, clientes directos y usuarios finales de negocio.
 
 Además de las actividades de liderazgo, continué participando activamente en la resolución de incidentes críticos, proyectos de implementación y migración, así como en el desarrollo y mantenimiento de herramientas internas utilizadas por diferentes áreas de la empresa.
 
@@ -82,7 +82,7 @@ Paralelamente continué participando en proyectos internos relacionados con auto
 - Recopilar evidencia técnica para apoyar investigaciones conjuntas entre Soporte, Desarrollo y las áreas de TI de los clientes.
 - Coordinar investigaciones técnicas entre Soporte y Desarrollo.
 - Validar soluciones antes de su liberación al cliente.
-- Mantener comunicación continua con clientes estratégicos durante incidentes críticos.
+- Mantener comunicación continua con clientes estratégicos, clientes directos y usuarios finales de negocio durante incidentes críticos.
 
 ---
 
@@ -91,7 +91,7 @@ Paralelamente continué participando en proyectos internos relacionados con auto
 - Coordinar servicios de implementación y renovación.
 - Traducir requerimientos de negocio en especificaciones técnicas para el área de Desarrollo.
 - Liderar migraciones de clientes hacia la plataforma SaaS.
-- Realizar sesiones de capacitación para clientes, usuarios finales de negocio y prospectos.
+- Realizar sesiones de capacitación para clientes empresariales, clientes directos, usuarios finales de negocio y prospectos.
 - Guiar procesos de onboarding para nuevos clientes.
 - Colaborar con Customer Success para garantizar una transición exitosa durante las implementaciones.
 

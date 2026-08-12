@@ -86,7 +86,7 @@ Mi rol evolucionó desde la coordinación de un único equipo hacia responsabili
 - Coordinar extensiones temporales de licencias.
 - Validar configuraciones antes de liberar nuevos ambientes.
 - Colaborar con el área Comercial durante procesos de renovación.
-- Brindar soporte administrativo a clientes empresariales y usuarios finales de negocio relacionados con el acceso y configuración de la plataforma.
+- Brindar soporte administrativo y operativo relacionado con acceso, licencias y configuración de la plataforma a clientes empresariales, clientes directos y usuarios finales de negocio.
 
 ---
 
@@ -165,7 +165,7 @@ Mi rol evolucionó desde la coordinación de un único equipo hacia responsabili
 
 # Logros
 
-- Reducir en un 60% las solicitudes de soporte relacionadas con licencias vencidas mediante un proceso proactivo de revisión semanal junto con el Key Account Manager y la coordinación de extensiones temporales de licencias para clientes empresariales y usuarios finales de negocio.
+- Reducir en un 60% las solicitudes de soporte relacionadas con licencias vencidas mediante un proceso proactivo de revisión semanal junto con el Key Account Manager y la coordinación de extensiones temporales de licencias para clientes empresariales, clientes directos y usuarios finales de negocio.
 
 - Diseñar un nuevo modelo de métricas que permite identificar qué tickets incumplen el SLA mientras permanecen escalados al área de Desarrollo, proporcionando visibilidad sobre una etapa del proceso que anteriormente no podía medirse.
 

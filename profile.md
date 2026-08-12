@@ -32,7 +32,9 @@ Este enfoque me ha permitido desarrollar soluciones utilizando SQL Server, plata
 
 Ingeniero en Sistemas Computacionales especializado en Support Operations, Application Support y administración de plataformas SaaS.
 
-Desde 2020 he desarrollado una trayectoria profesional enfocada en implementación de software empresarial, soporte técnico empresarial, atención a usuarios finales de negocio, SQL Server, análisis de causa raíz, automatización de procesos y mejora continua de operaciones de soporte, evolucionando desde la implementación de software hasta la administración de operaciones de soporte y la coordinación de equipos técnicos.
+Desde 2020 he desarrollado una trayectoria profesional enfocada en implementación de software empresarial, soporte técnico para clientes empresariales y clientes directos, atención a usuarios finales de negocio, SQL Server, análisis de causa raíz, automatización de procesos y mejora continua de operaciones de soporte, evolucionando desde la implementación de software hasta la administración de operaciones de soporte y la coordinación de equipos técnicos.
+
+Mi experiencia incluye soporte tanto a organizaciones que utilizan plataformas SaaS y software empresarial como a clientes individuales —incluyendo profesionistas independientes y propietarios de pequeñas empresas— que utilizan sistemas de facturación para sus operaciones diarias.
 
 Actualmente soy responsable de la administración de las operaciones de soporte en Ekasoft, donde coordino al equipo de soporte técnico, administro la plataforma de soporte de la organización, superviso indicadores operativos, impulso iniciativas de mejora continua y participo en la administración del entorno SaaS utilizado por más de 100 clientes empresariales.
 
@@ -191,7 +193,7 @@ Tengo experiencia en:
 
 ## Operaciones
 
-- Soporte técnico empresarial y atención a usuarios finales de negocio.
+- Soporte técnico a clientes empresariales, clientes directos y usuarios finales de negocio.
 - Administración de plataformas de soporte.
 - Administración de entornos SaaS.
 - Gestión de licencias.

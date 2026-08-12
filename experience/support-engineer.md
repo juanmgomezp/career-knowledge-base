@@ -28,7 +28,7 @@ Support Engineer
 
 # Resumen del Rol
 
-Como Support Engineer fui responsable de atender incidentes técnicos relacionados con soluciones de Facturación Electrónica y Analítica Fiscal, brindando soporte a clientes empresariales y usuarios finales de negocio, y dando seguimiento a cada caso desde su asignación hasta su resolución.
+Como Support Engineer fui responsable de atender incidentes técnicos relacionados con soluciones de Facturación Electrónica y Analítica Fiscal, brindando soporte a clientes empresariales, clientes directos y usuarios finales de negocio, y dando seguimiento a cada caso desde su asignación hasta su resolución.
 
 Durante esta etapa profundicé mis habilidades técnicas en diagnóstico y resolución de incidentes utilizando SQL Server, al mismo tiempo que desarrollé una comprensión más profunda de la arquitectura y funcionamiento interno de los productos.
 
@@ -54,12 +54,12 @@ Gran parte de este aprendizaje se obtuvo mediante la atención diaria de casos, 
 
 ## Contribución Técnica
 
-- Diagnosticar incidentes reportados por clientes empresariales y usuarios finales de negocio.
+- Diagnosticar incidentes reportados por clientes empresariales, clientes directos y usuarios finales de negocio.
 - Resolver incidencias utilizando SQL Server y SQL Profiler.
 - Analizar consultas SQL para identificar causas raíz.
 - Escalar incidentes al área de Desarrollo cuando era necesario.
 - Dar seguimiento continuo a los casos hasta su resolución.
-- Mantener comunicación constante con clientes y usuarios finales durante todo el ciclo del incidente.
+- Mantener comunicación constante con clientes empresariales, clientes directos y usuarios finales durante todo el ciclo del incidente.
 - Documentar casos complejos para facilitar futuras investigaciones.
 - Elaborar guías para configuraciones y procesos operativos frecuentes.
 - Atender llamadas de soporte, generar tickets y asignarlos considerando la carga operativa.
