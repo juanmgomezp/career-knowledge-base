@@ -7,8 +7,8 @@
 
 ## Equipo
 
-- Hasta 5 ingenieros.
-- Actualmente 3 ingenieros.
+- Liderazgo directo de hasta 5 ingenieros.
+- Administración operativa y seguimiento de métricas para múltiples equipos de soporte (9 ingenieros en total).
 
 ## SLA
 

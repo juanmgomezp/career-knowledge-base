@@ -40,9 +40,9 @@ Mi rol combina liderazgo técnico, Support Operations, administración SaaS, aut
 
 Tras una reestructuración organizacional, el cargo de Supervisor de Soporte fue eliminado y varias de sus responsabilidades fueron redistribuidas entre diferentes áreas.
 
-Como resultado, además de continuar liderando un equipo responsable del soporte técnico para más de 100 clientes empresariales, asumí la administración de la plataforma de soporte utilizada por toda la organización y la gestión operativa del entorno SaaS utilizado por clientes empresariales y usuarios finales de negocio.
+Como resultado, además de continuar liderando directamente un equipo de tres ingenieros de soporte, asumí la administración operativa de la función de soporte a nivel organizacional, incluyendo el análisis semanal de métricas, seguimiento de SLA, monitoreo de calidad, administración de la plataforma de soporte y coordinación operativa con los líderes de los demás equipos.
 
-Mi rol evolucionó desde la coordinación de un único equipo hacia responsabilidades transversales, incluyendo el análisis de indicadores de todos los equipos de soporte, la identificación de riesgos operativos, el diseño de automatizaciones y la administración de licencias, proyectos, productos y usuarios dentro del entorno SaaS.
+Mi rol evolucionó desde la gestión de un único equipo hacia responsabilidades transversales que impactan a todos los equipos de soporte, proporcionando visibilidad operativa, identificando riesgos, recomendando acciones correctivas y apoyando investigaciones complejas cuando era necesario.
 
 ---
 
@@ -58,6 +58,16 @@ Mi rol evolucionó desde la coordinación de un único equipo hacia responsabili
 - Participar en revisiones técnicas.
 - Dar seguimiento a incidentes críticos hasta su resolución.
 - Guiar técnicamente al equipo durante investigaciones complejas.
+
+---
+
+## Coordinación Operativa Transversal
+
+- Analizar semanalmente los indicadores operativos de todos los equipos de soporte.
+- Monitorear el desempeño de nueve ingenieros distribuidos en varios equipos, identificando riesgos relacionados con SLA, seguimiento de tickets y satisfacción del cliente.
+- Comunicar hallazgos, tendencias y recomendaciones operativas a los líderes de equipo y áreas involucradas.
+- Coordinar acciones de mejora con otros equipos de soporte sin ejercer liderazgo jerárquico directo sobre ellos.
+- Brindar apoyo técnico y operativo en investigaciones complejas cuando era requerido.
 
 ---
 
