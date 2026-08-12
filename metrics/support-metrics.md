@@ -2,7 +2,7 @@
 
 ## Clientes
 
-- +100 clientes empresariales.
+- +100 organizaciones y clientes directos atendidos mediante plataformas SaaS y soluciones empresariales.
 - Atención directa a clientes individuales y usuarios finales de negocio, incluyendo contadores, personal administrativo, responsables de nómina y propietarios de pequeñas empresas.
 
 ## Equipo
